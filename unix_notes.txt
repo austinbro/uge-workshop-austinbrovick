@@ -2,51 +2,53 @@ cd
 ls
 pwd
 man less
-history | less 
+history | less
 history 20
 history 5
-history 
+history
+
+dfdsafsaf
 ls ~
 cd Applications
 man ls
 ...
 cd /Applications
 ls -la /Applications
-ls /Applications 
+ls /Applications
 ls /
 clear
 cd ..
 cd wedding1.jpg
-cd documents 
+cd documents
 ls -l
-cd /Users/austinbrovick 
+cd /Users/austinbrovick
 man -ls
 man
-ls -man 
+ls -man
 ls man
 q
-man -ls 
+man -ls
 ls -r
 ls -lt
-ls -l 
+ls -l
 ls -t
-cd / 
+cd /
 git --version
-curl -fsSL http://git.io/QxUaOQ | sh 
-curl -fsSL http://git.io/7UHtNA | sh 
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email "austinbrovick@yahoo.com"
 git config --global user.name "Austin Brovick"
 brew install git
 echo $PATH
 subl /etc/paths
-echo $EDITOR 
+echo $EDITOR
 echo $EDITOR
 subl ~/ .config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
-fish_update_completions 
-curl -fsSL http://git.io/beJs | ruby 
-chsh -s /usr/local/bin/fish 
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
 echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
 brew install fish
 brew doctor
@@ -54,7 +56,7 @@ ruby -e "$(curl -fsSL http://raw.github.com/Homebrew/install/master/install)"
 uname
 uname.
 /usr/local/zend/mysql/bin/mysql -u austinbrovick -p
-mysql -u root -p 
+mysql -u root -p
 cd applications/mamp/library/bin
 /applications/mamp/library/bin/mysql
 /applications/mamp/library/bin/
@@ -95,20 +97,20 @@ sudo rm zendctl.sh
 cd /Library/StartupItems/ZendServer_init/
 cd /Library/StartupItems/ZendServer_init/zendctl.sh restart
 cd /Library/StartupItems/ZendServer_init/zendctl.shrestart
-sudo nano /usr/local/zend/bin/zendctl.sh 
-sudo /Library/StartupItems/ZendServer_init/zendctl.sh restart 
+sudo nano /usr/local/zend/bin/zendctl.sh
+sudo /Library/StartupItems/ZendServer_init/zendctl.sh restart
 sudo nano /usr/local/zend/bin/zendctl.sh
 -u root -p publications > publications.sql
 mysqldump -u austinbrovick -p publications > publications.sql
 mysqldump -u austinbrovick publications > publications.sql
 mysqldump -u root -p publications > publications.sql
-cd /usr/local/zend/mysql/bin 
+cd /usr/local/zend/mysql/bin
 /usr/local/zend/mysql/bin -u austinbrovick
 /usr/local/zend/mysql/bin
-/usr/local/zend/mysql/bin/mysql -u austinbrovick 
+/usr/local/zend/mysql/bin/mysql -u austinbrovick
 /usr/local/zend/mysql/bin/mysql/ -u root
 /usr/local/zend/mysql/bin/mysql -u jim -p
--u jim -p 
+-u jim -p
 -u jim -p
 cd mysql
 cd /usr/local/zend
@@ -167,18 +169,18 @@ mysqld stop
 /Applications/MAMP/bin/mysql
 ./MAMP
 cd applications/mamp
-cd applications/mamp/bin/mysql 
+cd applications/mamp/bin/mysql
 /usr/local/bin/mysql -austinbrovick -Apb@ceo0269
 /usr/local/bin/mysql -austinbrovick
 -u austinbrovick -p
 mysql -u austinbrovick -p
-mysql -u austinbrovick 
+mysql -u austinbrovick
 mysql5
 /usr/local/mysql/bin
 /austinbrovick/local/applications/mamp
 /applications/mamp
 /usr/local/applications/mamp/
-/usr/local/bin/mysql 
+/usr/local/bin/mysql
 /Applications/MAMP/Library/bin/2to3 ; exit;
 cd /Users/austinbrovick/documents/123.php
 pseudo /Users/austinbrovick/documents/123.php
@@ -220,11 +222,11 @@ ps -e | grep httpd
 find . -name httpd -print
 find. -name httpd -print
 cd /
-cd/ 
+cd/
 /Applications/MAMP/Library/bin/mysqld version
 /usr/local/applications/MAMP/Library/bin/mysqld/mysqladmin version
 ps -e | grep mysql
-grep 
+grep
 % ps -e | grep mysql
 find . -name mysqld -print
 su
