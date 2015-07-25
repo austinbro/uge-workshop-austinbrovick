@@ -1,0 +1,279 @@
+cd
+ls
+pwd
+man less
+history | less 
+history 20
+history 5
+history 
+ls ~
+cd Applications
+man ls
+...
+cd /Applications
+ls -la /Applications
+ls /Applications 
+ls /
+clear
+cd ..
+cd wedding1.jpg
+cd documents 
+ls -l
+cd /Users/austinbrovick 
+man -ls
+man
+ls -man 
+ls man
+q
+man -ls 
+ls -r
+ls -lt
+ls -l 
+ls -t
+cd / 
+git --version
+curl -fsSL http://git.io/QxUaOQ | sh 
+curl -fsSL http://git.io/7UHtNA | sh 
+git config --global user.email "austinbrovick@yahoo.com"
+git config --global user.name "Austin Brovick"
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR 
+echo $EDITOR
+subl ~/ .config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby 
+chsh -s /usr/local/bin/fish 
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL http://raw.github.com/Homebrew/install/master/install)"
+uname
+uname.
+/usr/local/zend/mysql/bin/mysql -u austinbrovick -p
+mysql -u root -p 
+cd applications/mamp/library/bin
+/applications/mamp/library/bin/mysql
+/applications/mamp/library/bin/
+ls -a
+cd ~
+mysql
+/Applications/MAMP/Library/bin/mysql -uroot -p
+/applications/mamp/library/bin/mysql -u austinbrovick -p
+/usr/local/applications/mamp/library/bin/mysql -uaustinbrovick -p
+/Applications/MAMP/Library/bin/mysql --host=localhost -uaustinbrovick -p
+/usr/local/mysql/bin/mysql -u root -p
+/usr/local/mysql/bin/mysql -u root -proot
+cd /usr/local/applications/mamp/htdocs
+/usr/local/applications/mamp/htdocs
+/usr/local/zend/mysql/bin/mysql -u austinbrovick -pApb@ceo0269
+/usr/local/zend/mysql/bin/mysql -u austinbrovick
+SHOW databases
+SHOW databases;
+/usr/local/zend/mysql/bin/mysql -austinbrovick@localhost
+/usr/local/zend/mysql/bin/mysql -u root
+cd /htdocs
+cd MAMP
+cd/ Applications
+php
+cd /usr/local/zend/apache2/htdocs
+mv /usr/Documents/test.html /usr/local/zend/apache2/htdocs
+cd Documents
+cd /usr/Documents
+cd Austins-MBP/Documents
+cd /usr/documents
+cd /local
+cd /usr
+cd /usr/local/documents
+/usr/local/zend/apache2/htdocs
+sudo /Library/StartupItems/ZendServer_init/zendctl.sh restart
+sudo ln -s /usr/local/zend/bin/zendctl.sh ./
+sudo rm zendctl.sh
+cd /Library/StartupItems/ZendServer_init/
+cd /Library/StartupItems/ZendServer_init/zendctl.sh restart
+cd /Library/StartupItems/ZendServer_init/zendctl.shrestart
+sudo nano /usr/local/zend/bin/zendctl.sh 
+sudo /Library/StartupItems/ZendServer_init/zendctl.sh restart 
+sudo nano /usr/local/zend/bin/zendctl.sh
+-u root -p publications > publications.sql
+mysqldump -u austinbrovick -p publications > publications.sql
+mysqldump -u austinbrovick publications > publications.sql
+mysqldump -u root -p publications > publications.sql
+cd /usr/local/zend/mysql/bin 
+/usr/local/zend/mysql/bin -u austinbrovick
+/usr/local/zend/mysql/bin
+/usr/local/zend/mysql/bin/mysql -u austinbrovick 
+/usr/local/zend/mysql/bin/mysql/ -u root
+/usr/local/zend/mysql/bin/mysql -u jim -p
+-u jim -p 
+-u jim -p
+cd mysql
+cd /usr/local/zend
+cd bin
+cd /usr/local/mysql/
+cd docs
+cd htdocs
+cd /usr/local/
+cd usr
+cd /usr/local/MAMP/htdocs
+cd index.html
+cd apache2
+cd zend
+cd local
+cd /usr/
+mysql -u root -p
+sudo /Library/StartupItems/ZendServer_init/zendct1.sh restart
+sudo ln -s /usr/local/zend/bin/zendct1.sh ./
+sudo rm zendct1.sh
+sudo nano /usr/local/zend/bin/zendct1.sh
+sudo ln -s /usr/local/zend/bin/zendct1.sh restart
+cd Logs
+cd Akamai
+rm Rf /Users/austinbrovick/Applications/Akamai
+cd pwd
+cd austinbrovick
+cd Desktop
+cd mamp
+cd documents
+clang -fobjc-arc Fraction.m main.m -o FractionTest
+cd FractionTest
+vi main.m
+cd Progs
+mkdir Progs
+gcc CTutorial1.c
+gcc CTutorial.c
+cd CTutorial1.c
+gss  CTutorial1.c
+gss CTutorial1.c
+sudo /Applications/MAMP/tmp/mysql.mysql.sock
+/Applications/MAMP/tmp/mysql/mysql.sock
+/Applications/XAMPP/xamppfiles/bin/a2p ; exit;
+cd /Applications/XAMPP
+cd /XAMPP
+cd /Applications XAMPP
+/Applications/XAMPP
+./lampp status
+./xampp status
+sudo ./xampp status
+/Applications/XAMPP/xamppfiles/xampp ; exit;
+/usr/local/bin/mysql_install_db
+usr/local/bin/mysql_install_db
+/usr/local/mysql/bin/mysql
+touch /tmp/mysql.sock
+mysqld stop
+/Applications/MAMP/bin/mysql
+./MAMP
+cd applications/mamp
+cd applications/mamp/bin/mysql 
+/usr/local/bin/mysql -austinbrovick -Apb@ceo0269
+/usr/local/bin/mysql -austinbrovick
+-u austinbrovick -p
+mysql -u austinbrovick -p
+mysql -u austinbrovick 
+mysql5
+/usr/local/mysql/bin
+/austinbrovick/local/applications/mamp
+/applications/mamp
+/usr/local/applications/mamp/
+/usr/local/bin/mysql 
+/Applications/MAMP/Library/bin/2to3 ; exit;
+cd /Users/austinbrovick/documents/123.php
+pseudo /Users/austinbrovick/documents/123.php
+/Users/austinbrovick/documents/123.php
+~/public.html/123.php
+ls public.html
+chmod a+rx ~/public.html
+mkdir ~/public.html
+mkdir ~public_html
+-q
+quit
+~/123.php
+cd 123.php
+/documents/123.php
+/usr/local/documents/123.php
+/usr/documents/123.php
+/usr/local/apache/htdocs
+/usr/local
+./mysql --host=localhost -u root -proot
+cd /Applications/MAMP/Library/bin
+cd ./mamp
+./mamp
+/usr/local/Applications/mamp/htdocs/123.php
+mamp
+./mamp/bin/apache2
+apache2
+applications/mamp/bin/apache2
+usr/applications
+/usr/local/applications
+usr/local/applications
+.
+sudo ls
+ls * -r
+/usr/local/Applications/MAMP/bin/apache2
+cd ./Applications/bin/apache2
+cd applications
+ps -e | grep httpd
+% ps -e | grep httpd
+find . -name httpd -print
+find. -name httpd -print
+cd /
+cd/ 
+/Applications/MAMP/Library/bin/mysqld version
+/usr/local/applications/MAMP/Library/bin/mysqld/mysqladmin version
+ps -e | grep mysql
+grep 
+% ps -e | grep mysql
+find . -name mysqld -print
+su
+chmod a+rx ~/public_html
+~/public_html
+cd apache
+-mysql -hostname
+-hostname
+mysql -hostname=localhost
+cd downloads
+usr/local/mysql/bin/mysql
+mysql/bin/mysql
+$/usr/local/mysql/bin/mysql
+uname -a
+$usr/local/mysql/bin/mysql
+$
+php sayHello.php
+Is
+php -version
+php version
+php ~version
+which php
+bin/rails server
+bin/rspec spec/features/todo_lists/edit_spec.rb
+touch spec/features/todo_lists/edit_spec.rb
+git diff
+git commit -am "Refactor todo list creation in spec"
+git dif
+git status
+bin/rspec ~/documents/rails/odot/spec/features/todo_lists/create_spec.rb
+git add commit -am "Add validations for description"
+git commit -m "Add length and presence validation to todo list title"
+git add app/models/todo_lists.rb
+git add ~/documents/rails/odot/app/models/todo_lists.rb
+git add spec/features
+bin/rspec spec/features/todo_lists/create_spec.rb
+touch spec/features/todo_lists/create_spec.rb
+mkdir -p spec/features/todo_lists
+bin/rake spec
+git commit -m "Generate todo list scaffold"
+git add .
+bin/rake db:migrate RAILS_ENV=test
+bin/rake db:migrate
+bin/rails generate scaffold todo_list title:string description:text
+bin/rails generate scaffold todo_list
+git rm -rf test
+rm -rf test/
+bundle binstubs rspec-core
+bin/rails generate rspec:install
+bundle
+git init
+cd odot
